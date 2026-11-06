@@ -36,3 +36,5 @@ Chín nguyên tắc cấu trúc rút từ nghiên cứu (đừng nói ra bài h�
 ## Giấy phép
 
 MIT. Làm bởi Minh Đăng ([@mindang.com](https://www.tiktok.com/@mindang.com) trên TikTok).
+
+Ý tưởng lấy cảm hứng từ video của Michael Ly ([@millee.md](https://www.instagram.com/millee.md/)). Nội dung skill viết lại bằng tiếng Việt, trực tiếp từ nghiên cứu [StoryScope](https://arxiv.org/abs/2604.03136).
